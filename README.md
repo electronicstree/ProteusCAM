@@ -11,8 +11,6 @@ For more info, visit the [ProteusCAM : New Arduino Camera Simulation Model](http
 - **Run it directly** without any EXE  
 - **Build your own EXE** with PyInstaller  
 
----
-
 ## Requirements for running from source:
 1. **Python 3.10+** (from [python.org](https://www.python.org/downloads/))  
 2. **PyQt6**  
